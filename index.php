@@ -1,5 +1,5 @@
 <?php
-// test commit
+// test commit #2
 // This file is part of Moodle - http://moodle.org/
 //
 // Moodle is free software: you can redistribute it and/or modify
